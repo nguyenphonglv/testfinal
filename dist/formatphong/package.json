@@ -1,0 +1,21 @@
+{
+  "name": "formatphong",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "main": "bundles/formatphong.umd.js",
+  "module": "fesm5/formatphong.js",
+  "es2015": "fesm2015/formatphong.js",
+  "esm5": "esm5/formatphong.js",
+  "esm2015": "esm2015/formatphong.js",
+  "fesm5": "fesm5/formatphong.js",
+  "fesm2015": "fesm2015/formatphong.js",
+  "typings": "formatphong.d.ts",
+  "metadata": "formatphong.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
